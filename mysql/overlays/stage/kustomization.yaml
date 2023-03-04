@@ -3,4 +3,4 @@ bases:
 - ../../base
 resources:
 - route.yaml
-namePrefix: prod-
+namePrefix: stage-

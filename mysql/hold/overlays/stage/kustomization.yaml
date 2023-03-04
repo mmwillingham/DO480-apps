@@ -1,6 +1,7 @@
 kind: Kustomization
+
 bases:
 - ../../base
 resources:
-- route.yaml
-namePrefix: prod-
+- route.yaml  
+namePrefix: stage-
